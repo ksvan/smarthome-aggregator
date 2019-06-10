@@ -1,0 +1,9 @@
+{
+  "name": "smarthome-aggregator",
+  "version": "0.1.0",
+  "description": "aggregator for smarthome solutions",
+  "main": "index.js",
+  "repository": "https://github.com/ksvan/smarthome-aggregator.git",
+  "author": "Kristian Svantorp",
+  "license": "MIT"
+}
